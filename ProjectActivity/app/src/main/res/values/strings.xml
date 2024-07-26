@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjectActivity</string>
+    <string name="AlreadyHaveAnAccount"/>
+    <string name="Register"/>
+    <string name="Username"/>
+    <string name="Email"/>
+    <string name="Password"/>
+    <string name="ConfirmPassword"/>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+</resources>

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "468128262706",
+    "firebase_url": "https://login-register-firebase-17368-default-rtdb.firebaseio.com",
+    "project_id": "login-register-firebase-17368",
+    "storage_bucket": "login-register-firebase-17368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468128262706:android:0cb07efff9785217172a2b",
+        "android_client_info": {
+          "package_name": "com.dekut.projectActivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa68k6Bf5xlz748cxubKosUHdp6yKtrcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468128262706:android:cbd46ac67b4e1005172a2b",
+        "android_client_info": {
+          "package_name": "com.dekut.projectactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa68k6Bf5xlz748cxubKosUHdp6yKtrcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
